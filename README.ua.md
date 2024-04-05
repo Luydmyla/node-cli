@@ -51,7 +51,8 @@ async function addContact(name, email, phone) {
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js -a list
 
-![alt text](image.png)
+![image](https://github.com/Luydmyla/node-cli/assets/87442018/c8c8d5a2-8326-4437-8767-fb2bda9726fb)
+
 
 
 # Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
