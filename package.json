@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "commander": "^12.0.0",
+    "nanoid": "^3.3.4"
+  },
+  "name": "cli",
+  "description": "- Створи репозиторій з назвою `goit-node-cli`, склонуй та ініціалізуй в ньому проєкт за допомогою команди npm init. Встанови як залежність проєкту пакет [commander](https://www.npmjs.com/package/commander)\r - В корінь проєкту помісти файли з папки [src](./src)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
